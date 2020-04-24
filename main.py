@@ -54,7 +54,7 @@ while day < last + 1:
         # print (len(trs))
         for td in trs:
             tds = td.findAll('td')
-            # print(len(tds))
+            #   print(len(tds))
             domicile = td.find('td', {'class': 'home_l'})
             dom = domicile.text
             sco = td.find('td', {'class': 'score'})

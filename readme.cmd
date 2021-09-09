@@ -4,6 +4,6 @@ It s an example for scrap and study result. save your money dont bet with my pro
 
 but if you win one billion $£€ ---->
 
-Bitcoin adress for donation bc1qnmnpc20pwch6j67k4v493pgkax3hnjryfmtrty
+Bitcoin address for donation bc1qnmnpc20pwch6j67k4v493pgkax3hnjryfmtrty
 
 thanks
